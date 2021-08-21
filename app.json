@@ -1,155 +1,155 @@
 {
-    "name": "T-REX BOT",
-    "description": "T-REX project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "T-Rex", "t-rex", "Trex", "bot", "api", "ai"],
-    "repository": "https://github.com/TRexWa/T-REX",
-    "website":   "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
-    "success_url": "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
+    "name": "Queen Amdi 2.9v",
+    "description": "Queen Amdi is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://i.ibb.co/r3wmpwr/LOGO.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
+    "repository": "",
+    "website":   "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
+    "success_url": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
     "stack": "container",
     "env": {
         "TREX_SESSION": {
-            "description": "ඔබ ස්කෑන කල පසු ලැබුනු කේතය ඇතුලත් කරන්න.. , Type here yours T-Rex Session.",
+            "description": "Paste your QR session that you got from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
             "required": true
         },
         "SUDO": {
-            "description": "ඔබේ බොට්ගේ පාලනය තවකෙකුට ලබා දීමට . Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "If you do not know how to use it, leave it blank! SUDO mode; Your number must be an international number. So you have to have your number after the country code. Example: 947xxxxxxxx (Sri lanka No. 94)",
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. sinhala => si, Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
+            "description": "Enter your language. To enable Sinhala, type SI. or to enable English, type EN.",
             "required": true,
-            "value": "si"
-        },
-        "ANTİ_LİNK": {
-            "description": "ලින්ක් වැලැක්වීමේ ක්‍රියාවලිය , Link Blocking System.",
-            "required": true,
-            "value": "false"
-        },
-        "AUTO_BİO": {
-            "description": "ඔබගේ බයෝ එක දිනෙන් දින වෙනස් කිරීමට , Set true for auto date, time in biography.",
-            "required": true,
-            "value": "false"
+            "value": "EN"
         },
         "HANDLERS": {
-            "description": "වෙනස් නොකරන්න , Do not change For commands.",
+            "description": "Enter bot prefix to use commands.",
             "required": true,
-            "value": "^[.!;]"
+            "value": "^[.!]"
         },
-        "FULL_EVA": {
-            "description": "ඔබගේ බොට් චැට් බොට් කෙනෙකු ලෙස ක්‍රියා කිරීමට , Turn your account into a chatbot!",
+        "CHAT_BOT": {
+            "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and false to deactivate AI chat bot.",
             "required": true,
-            "value": "false"
-        },
-        "NO_LOG": {
-            "description": "Set true if you don't want to see error log.",
-            "required": true,
-            "value": "false"
+            "value": "true"
         },
         "SEND_READ": {
-            "description": "බොට් ලවා පනිවිඩ බැලීමට , Write true if you want to throw seen.",
+            "description": "Need to show user whether bot message seen or not?",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "If it is running in Heroku, type true.",
+            "description": "Heroku",
             "required": true,
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "හෙරෝකු API කී එක , Heroku API Key.",
+            "description": "https://dashboard.heroku.com/account Click this link. Scroll down for the API key. Then click the Reveal button. Copy the API key and paste the API Key empty box below.",
+            "required": true
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Use the same App name as first.",
             "required": true
         },
         "MUTE_MESSAGE": {
-            "description": "Customizable Mute Message! Use => default, to change back.",
+            "description": "Message received when mute a group. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "BLOCK_CHAT": {
-            "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
+            "description": "Select the chat where the bot does not work. Ex: 947xxxxxxxx && 947xxxxxxxx හෝ 947xxxxxxxx,947xxxxxxxx",
             "required": false,
-            "value": "false"
+            "value": "no chats added"
         },
         "UNMUTE_MESSAGE": {
-            "description": "Customizable Unmute Message! Use => default, to change back.",
+            "description": "Message received when unmuteing a group.",
             "required": false,
             "value": "default"
         },
         "BLOCK_MESSAGE": {
-            "description": " Customizable Block Message! Use => default, to change back.",
+            "description": "Modifiable chat block notification. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "UNBLOCK_MESSAGE": {
-            "description": " Customizable Unblock Message! Use => default, to change back.",
+            "description": "Modifiable chat unblock notification. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "❰🍁🔱  T Rex BOT NEW  🔱🍁❱ Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "public"
-        },
-        "HEROKU_APP_NAME": {
-            "description": "ඔබ මුලින් ලබා දුන් ඇප් එකේ නම , Heroku APP Name.",
-            "required": true
-        },
+            "value": "private"
+        },       
         "DEBUG": {
-            "description": "Geliştiricilere özeldir.",
+            "description": "If you do not know this. Give it up.",
             "required": true,
             "value": "false"
         },
+        "MENU": {
+            "description": "Customizeable commands list request command. Keep panel if you don't want to change.",
+            "required": true,
+            "value": "panel"
+        },
+         "ALIVE_LOGO": {
+            "description": "Alive message Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
+            "required": true,
+            "value": "https://i.ibb.co/r3wmpwr/LOGO.jpg"
+        },
+        "WELCOME_LOGO": {
+            "description": "To change the welcome message video, enter your video link below.(Upload the video you want to https://www.mailboxdrive.com/upload/ and paste the link here.)",
+            "required": true,
+            "value": "https://tinyurl.com/queenamdi-welcomev2"
+        },
+        "BYE_LOGO": {
+            "description": "Below is your video link to change Goodbye message video.(Upload the video you want to https://www.mailboxdrive.com/upload/ and post the link here.)",
+            "required": true,
+            "value": "https://tinyurl.com/queenamdi-goodbye"
+        },
         "REMOVE_BG_API_KEY": {
-            "description": "Removes the background of photos. https://remove.bg",
+            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "ඔබ ඔන්ලයින්ද ? ඔබේ පණිවිඩය මෙහි තබන්න , Customizable Alive Message! Use => default, to change back.",
-            "required": true,
-            "value": "  ❰🍁🔱  T Rex BOT  🔱🍁❱\n\nමේ අවස්තාවේදී ඔන්ලයින් ඉන්නෝ 😒\n\nCREATED BY HIRUWA 😘😘🍁"
+            "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
+            "required": false,
+            "value": "default"
         },
         "BAN_MESSAGE": {
-            "description": "Customizable Ban Message! Use => default, to change back.",
+            "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "ADD_MESSAGE": {
-            "description": "Customizable Add Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "KICKME_MESSAGE": {
-            "description": "Customizable Kickme Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "PROMOTE_MESSAGE": {
-            "description": "Customizable Promote Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "DEMOTE_MESSAGE": {
-            "description": "Customizable Demote Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "AFK_MESSAGE": {
-            "description": "Customizable AFK Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
-        "GAN_IMAGE": {
-            "description": "Type image link for Gan Style plugin.",
-            "required": true,
-            "value": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg"
-        },
         "NO_ONLINE": {
-            "description": " Type true if you don't want to appear online.",
+            "description": "This is not necessarily the case.",
             "required": false,
             "value": "true"
         },
         "COFFEEHOUSE_API_KEY": {
-            "description": "Pass This Step! - Bu Bölümü Geçin!",
+            "description": "Give it up. We give you this.",
             "required": false,
             "value": "true"
         }
