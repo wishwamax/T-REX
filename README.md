@@ -63,11 +63,11 @@ CREATED BY HIRUWA
 ```
 
 ## Helpers
- <div align="center">
+<div align="center">
 
-  <img border-radius: 15px src="https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg" width="200" height="200"/>
+  <src="https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg" width="200" height="200"/>
 
-  <p align="center">
+<p align="center">
 
 <a href="#"><img title="White" src="https://img.shields.io/badge/QueenAmdi-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     
