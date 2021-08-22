@@ -65,13 +65,9 @@ CREATED BY HIRUWA
 ## Helpers
 <div align="center">
 
-  <src="https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg",width="200",height="200"/>
-
-<p align="center">
-
-<a href="#"><img title="White" src="https://img.shields.io/badge/QueenAmdi-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/BlackAmda/QueenAmdi"><img title="White" src="https://img.shields.io/badge/QueenAmdi-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     
-![https://github.com/BlackAmda/QueenAmdi.git] <br>
+![https://github.com/BlackAmda/QueenAmdi](https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg/width=200,height=200)<br>
 Base, owner QueenAmdi
   </div>
     
