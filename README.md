@@ -65,7 +65,7 @@ CREATED BY HIRUWA
 ## Helpers
 <div align="center">
 
-  <src="https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg" width="200" height="200"/>
+  <src="https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg",width="200",height="200"/>
 
 <p align="center">
 
