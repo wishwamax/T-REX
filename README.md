@@ -67,8 +67,8 @@ CREATED BY HIRUWA
 
 
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="200" height="200">
+  <p1>👸💎 QUEEN AMDI BOT 💎👸</p1>
 </div>
     <a href="https://github.com/BlackAmda/QueenAmdi"><img title="White" src="https://img.shields.io/badge/QueenAmdi Base Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
