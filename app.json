@@ -1,15 +1,15 @@
 {
-    "name": "Queen Amdi 2.9v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/r3wmpwr/LOGO.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
+    "name": "T-Rex V1.0",
+    "description": "❰🍁🔱  T Rex BOT  🔱🍁❱ is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "T-Rex"],
     "repository": "",
-    "website":   "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
-    "success_url": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
+    "website":   "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
+    "success_url": "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
     "stack": "container",
     "env": {
         "TREX_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
+            "description": "Paste your QR session that you got from https://replit.com/@TRexWa/T-REX-QR-SESSION .",
             "required": true
         },
         "SUDO": {
@@ -19,17 +19,17 @@
         "LANGUAGE": {
             "description": "Enter your language. To enable Sinhala, type SI. or to enable English, type EN.",
             "required": true,
-            "value": "EN"
+            "value": "si"
         },
         "HANDLERS": {
-            "description": "Enter bot prefix to use commands.",
+            "description": "Do not change ❌ Enter bot prefix to use commands.",
             "required": true,
             "value": "^[.!]"
         },
         "CHAT_BOT": {
-            "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and false to deactivate AI chat bot.",
+            "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and true to activate AI chat bot.",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "SEND_READ": {
             "description": "Need to show user whether bot message seen or not?",
@@ -85,24 +85,24 @@
             "value": "false"
         },
         "MENU": {
-            "description": "Customizeable commands list request command. Keep panel if you don't want to change.",
+            "description": "Do Not Chnge ❌",
             "required": true,
-            "value": "panel"
+            "value": "trex"
         },
          "ALIVE_LOGO": {
             "description": "Alive message Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/r3wmpwr/LOGO.jpg"
+            "value": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg"
         },
         "WELCOME_LOGO": {
             "description": "To change the welcome message video, enter your video link below.(Upload the video you want to https://www.mailboxdrive.com/upload/ and paste the link here.)",
             "required": true,
-            "value": "https://tinyurl.com/queenamdi-welcomev2"
+            "value": "https://tinyurl.com/Trexhiruwa"
         },
         "BYE_LOGO": {
             "description": "Below is your video link to change Goodbye message video.(Upload the video you want to https://www.mailboxdrive.com/upload/ and post the link here.)",
             "required": true,
-            "value": "https://tinyurl.com/queenamdi-goodbye"
+            "value": "https://tinyurl.com/Trexbye"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
