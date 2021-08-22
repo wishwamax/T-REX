@@ -22,7 +22,7 @@
             "value": "si"
         },
         "HANDLERS": {
-            "description": "Do not change ❌ Enter bot prefix to use commands.",
+            "description": "Do not change ❌ .  bot prefix to use commands.",
             "required": true,
             "value": "^[.!]"
         },
