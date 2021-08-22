@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TRexWa"> HIRUWA</a> This project may be free
+Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> This project may be free
     <br
        | © |
         owner |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/TRexWa"> HIRUWA</a> This project 
 ----
 
   <p align="center">
-  <a href="https://github.com/TRexWa">
-    <img src="https://img.shields.io/github/repo-size/TRexWa/T-REX?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Dark-Knight-Hiruwa">
+    <img src="https://img.shields.io/github/repo-size/Dark-Knight-Hiruwa/T-REX?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/TRexWa/followers"><img title="Followers" src="https://img.shields.io/github/followers/TRexWa?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/TRexWa/T-REX?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TRexWa/T-REX?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TRexWa/T-REX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Dark-Knight-Hiruwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Knight-Hiruwa?color=blue&style=flat-square"></a>
+<a href="https://github.com/Dark-Knight-Hiruwa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Knight-Hiruwa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/Dark-Knight-Hiruwa/T-REX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dark-Knight-Hiruwa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/Dark-Knight-Hiruwa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Knight-Hiruwa/T-REX?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRexWa&repo=T-REX&theme=nightowl)](https://github.com/TRexWa/T-REX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Knight-Hiruwa&repo=T-REX&theme=nightowl)](https://github.com/Dark-Knight-Hiruwa/T-REX)
   </div>
     
 ## Setup
@@ -44,7 +44,7 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR-SESSION)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/Dark-Knight-Hiruwa/T-REX)
      </div>
@@ -52,7 +52,7 @@ Click WA logo to Join Support Group 👇
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-bash <(curl -L https://t.ly/tHxh)
+
 ``` 
 
 
@@ -65,8 +65,8 @@ CREATED BY HIRUWA
 ## Helpers
   <div align="center">
     
-![Hiruwa](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100) <br>
-Base, owner |
+![QueenAmdi](https://camo.githubusercontent.com/0eb74f6f8af662861f0fd3409545e6eb9e8a8f62058988e76d68fb0d151f3574/68747470733a2f2f692e6962622e636f2f7233776d7077722f4c4f474f2e6a7067/IMG-20210818-162806.jpg?size=100) <br>
+Base, owner 
   </div>
     
 
