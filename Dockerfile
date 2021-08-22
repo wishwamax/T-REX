@@ -20,7 +20,7 @@ FROM fusuf/whatsasena:latest
     #REM_BG_API_KEY = os.enviroviron.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.enviroviron.get("API_HASH", None)
-    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None).
     #REM_BG_API_KEY = os.enviroviron.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.enviroviron.get("API_HASH", None)
