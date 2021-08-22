@@ -65,7 +65,7 @@ CREATED BY HIRUWA
 ## Helpers
   <div align="center">
     
-![QueenAmdi]https://github.com/BlackAmda/QueenAmdi/IMG-20210818-162806.jpg?size=100) <br>
+![QueenAmdi](https://github.com/BlackAmda/QueenAmdi/IMG-20210818-162806.jpg?size=100) <br>
 Base, owner 
   </div>
     
