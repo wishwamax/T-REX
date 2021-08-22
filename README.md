@@ -65,7 +65,7 @@ CREATED BY HIRUWA
 ## Helpers
   <div align="center">
     
-![https://github.com/BlackAmda/QueenAmdi.git](https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg?size=100) <br>
+![https://github.com/BlackAmda/QueenAmdi.git](https://telegra.ph/file/584f3a61efeb63f6b86e1.jpg?size=100 width='200' height='200') <br>
 Base, owner 
   </div>
     
