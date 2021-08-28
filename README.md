@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="400" height="400"/>
+  <img border-radius: 15px src="https://telegra.ph/file/72caf817d141c24cab7cb.jpg" width="400" height="400"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
