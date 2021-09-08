@@ -27,9 +27,19 @@
             "value": "^[.!]"
         },
         "ANTIBAD": {
-            "description": "Set True , Activate Anti-Bad word and anti link for your groups.",
+            "description": "Set True , Activate Anti-Bad word for your groups.",
             "required": true,
             "value": "false"
+        },
+        "ANTI_LINK": {
+            "description": "Set True , Activate anti link for your groups.",
+            "required": true,
+            "value": "false"
+        },
+        "GROUP_RULES": {
+            "description": "Set your group Rules.",
+            "required": true,
+            "value": "No Rules"
         },
         "CHAT_BOT": {
             "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and true to activate AI chat bot.",
