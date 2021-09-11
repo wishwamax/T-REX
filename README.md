@@ -51,12 +51,12 @@ Click WA logo to Join Support Group 👇
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+
 ```
-
+T-REX WHATSAPP BOT BY HIRUWA
 ``` 
+[![TRAILER](https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg)](https://www.youtube.com/embed/oWDW6_Ewi1U)
 
-<embed style="width:200px; height:100px;" src="https://www.youtube.com/embed/oWDW6_Ewi1U"> </embed>
 
   
   
