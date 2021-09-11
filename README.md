@@ -28,6 +28,12 @@ Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> T
 <a href="https://github.com/Dark-Knight-Hiruwa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Knight-Hiruwa/T-REX?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
+  
+<html>
+  <body>
+    <embed style="width:200px; height:100px;" src="https://www.youtube.com/embed/oWDW6_Ewi1U"> </embed>
+  </body>
+</html>
 <iframe allowfullscreen="" src="https://www.youtube.com/embed/oWDW6_Ewi1U"></iframe>
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
