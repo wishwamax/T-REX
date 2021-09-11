@@ -1,6 +1,6 @@
 
 <div align="center">
-  <1h>📛🍁 T-REX BOT OFFICIAL 🍁📛</h1>
+  <h1>📛🍁 T-REX BOT OFFICIAL 🍁📛</h1>
 </div>
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="400" height="400"/>
