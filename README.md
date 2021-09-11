@@ -56,7 +56,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 
 ``` 
 
-    <embed style="width:200px; height:100px;" src="https://www.youtube.com/embed/oWDW6_Ewi1U"> </embed>
+<embed style="width:200px; height:100px;" src="https://www.youtube.com/embed/oWDW6_Ewi1U"> </embed>
 
   
   
