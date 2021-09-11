@@ -34,7 +34,6 @@ Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> T
     <embed style="width:200px; height:100px;" src="https://www.youtube.com/embed/oWDW6_Ewi1U"> </embed>
   </body>
 </html>
-<iframe allowfullscreen="" src="https://www.youtube.com/embed/oWDW6_Ewi1U"></iframe>
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
