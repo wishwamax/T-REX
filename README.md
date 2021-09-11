@@ -56,9 +56,9 @@ Click WA logo to Join Support Group 👇
 T-REX WHATSAPP BOT BY HIRUWA
 ``` 
 <div align="center">
-  <h3>T-REX OFFICIAL TRAILER</h3>
-[![TRAILER](https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg)](https://www.youtube.com/embed/oWDW6_Ewi1U)
-
+  <h2>T-REX OFFICIAL TRAILER</h2>
+  [![TRAILER](https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg)](https://www.youtube.com/embed/oWDW6_Ewi1U)
+</div>
 
   
   
