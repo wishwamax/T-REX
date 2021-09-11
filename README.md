@@ -29,11 +29,7 @@ Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> T
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
   
-<html>
-  <body>
-    <embed style="width:200px; height:100px;" src="https://www.youtube.com/embed/oWDW6_Ewi1U"> </embed>
-  </body>
-</html>
+
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
@@ -60,7 +56,13 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 
 ``` 
 
-
+<html>
+  <body>
+    <embed style="width:200px; height:100px;" src="https://www.youtube.com/embed/oWDW6_Ewi1U"> </embed>
+  </body>
+</html>
+  
+  
 ### ⚠️ Warning! 
 ```
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
