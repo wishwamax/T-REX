@@ -57,11 +57,11 @@ T-REX WHATSAPP BOT BY HIRUWA
 ``` 
     
     
-[![TRAILER](https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg)](https://www.youtube.com/embed/oWDW6_Ewi1U)
+[![TRAILER](https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="400" height="400")](https://www.youtube.com/embed/oWDW6_Ewi1U)
 
 <div align="center">
   <h1>🍁T-REX OFFICIAL TRAILER🍁</h1>
-  <p>📛 WATCH T-REX BOT TRAILER VIDEO 📛
+  <p>📛 WATCH T-REX BOT TRAILER VIDEO CLICK T-REX LOGO📛
 </div>
 
 
