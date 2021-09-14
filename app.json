@@ -21,6 +21,11 @@
             "required": true,
             "value": "si"
         },
+        "AUTO_BIO": {
+            "description": "Setup AUTO BIO feature. Adding a live clock for your WhatsApp about.",
+            "required": true,
+            "value": "true"
+        },
         "HANDLERS": {
             "description": "Do not change ❌ .  bot prefix to use commands.",
             "required": true,
