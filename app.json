@@ -175,11 +175,11 @@
             "value": "girl"
         },
         "WELCOME_LOGO": {
-            "description": "To change the welcome message video, enter your video link below.(Upload the video you want to https://www.mailboxdrive.com/upload/ and paste the link here.)",
+            "description": "To change the welcome message video, enter your video link below",
             "required": true
         },
         "BYE_LOGO": {
-            "description": "Below is your video link to change Goodbye message video.(Upload the video you want to https://www.mailboxdrive.com/upload/ and post the link here.)",
+            "description": "Below is your video link to change Goodbye message video.",
             "required": true
         },
         "REMOVE_BG_API_KEY": {
@@ -227,7 +227,7 @@
             "value": "true"
         },
         "CAPTION": {
-            "description": "LOGO MAKER CAPTION ( THIS FEATURE coming soon )",
+            "description": "LOGO MAKER CAPTION",
             "required": true,
             "value": " ❰🍁🔱  T Rex BOT  🔱🍁❱ "
         },
