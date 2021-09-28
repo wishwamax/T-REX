@@ -3,7 +3,7 @@
     "description": "❰🍁🔱  T Rex BOT  🔱🍁❱ is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "aii", "T-Rex"],
-    "repository": "",
+    "repository": "https://cutt.ly/www-t-rex-official-com",
     "website":   "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
     "success_url": "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
     "stack": "container",
@@ -24,12 +24,12 @@
         "AUTO_BIO": {
             "description": "Setup AUTO BIO feature. Adding a live clock for your WhatsApp about.",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "HANDLERS": {
             "description": "Do not change ❌ .  bot prefix to use commands.",
             "required": true,
-            "value": "^[.!]"
+            "value": "^[.!#$,*@]"
         },
         "ANTIBAD": {
             "description": "Set True , Activate Anti-Bad word for your groups.",
@@ -157,7 +157,7 @@
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },       
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
@@ -176,11 +176,13 @@
         },
         "WELCOME_LOGO": {
             "description": "To change the welcome message video, enter your video link below",
-            "required": true
+            "required": true,
+            "value":"https://telegra.ph/file/4ce438f1111969bdd9df1.mp4"
         },
         "BYE_LOGO": {
             "description": "Below is your video link to change Goodbye message video.",
-            "required": true
+            "required": true,
+            "value":"https://telegra.ph/file/3a2582be8423628a180c0.gif"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
@@ -229,7 +231,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION",
             "required": true,
-            "value": " ❰🍁🔱  T Rex BOT  🔱🍁❱ "
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 Ｔ-ＲＥＸ │"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
