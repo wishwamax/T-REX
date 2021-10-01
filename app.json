@@ -1,5 +1,5 @@
 {
-    "name": "T-Rex V2.0",
+    "name": "T-Rex V 3.0.0",
     "description": "❰🍁🔱  T Rex BOT  🔱🍁❱ is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "aii", "T-Rex"],
@@ -20,6 +20,11 @@
             "description": "Enter your language. To enable Sinhala, type SI. or to enable English, type EN.",
             "required": true,
             "value": "si"
+        },
+        "WELCOME": {
+            "description": "Welcome message type pp or gif",
+            "required": true,
+            "value": "pp"
         },
         "AUTO_BIO": {
             "description": "Setup AUTO BIO feature. Adding a live clock for your WhatsApp about.",
