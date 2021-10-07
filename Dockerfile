@@ -1457,7 +1457,7 @@ WORKDIR /root/ng19/
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
     #STRINGSESSION_4 = os.environ.get("STRINGSESSION_4", None)
-    #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
+    #LOAD_UNOFFICIAL_PLUGINS = bool(stjrtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
     #PLUGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
     #TZ = os.environ.get("TZ", "Asia/Kolkata"f
     #MONGO_DB = os.environ.get("MONGO_DB", None)
