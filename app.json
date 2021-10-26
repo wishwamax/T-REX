@@ -16,6 +16,12 @@
             "description": "YOU NEED BUTTON COMMANDS TYPE ( btn ) YOU NEED TEXT COMMAND TYPE ( txt ) බටන් කමාන්ඩ් සමහර ෆෝන් වලට වැඩ කරන් නෑ..",
             "value":"btn"
         },
+        "ALIVE_LOGO": {
+            "description": "If you do not want to change Alive Logo put here to your image direct link or, type default.",
+            "required": false,
+            "value": "default"
+        },
+        
         "TIME_ZONE": {
             "description": "YOUR COUNTRY TIME ZONE ලන්කාවෙ අය තියන විදිහට තියන්න..",
             "value":"Asia/Colombo"
