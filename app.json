@@ -23,19 +23,19 @@
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE",
-            "value":"default"
+            "value":"❤ UPLOADING YOUR SONG ►"
         },
         "SONG_DOWNLOAD": {
             "description": "SONG DOWNLOADING MESSAGE",
-            "value":"default"
+            "value":"❤ DOWNLOADING YOUR SONG ►"
         },
         "VIDEO_UPLOAD": {
             "description": "VIDEO UPLOADING MESSAGE",
-            "value":"default"
+            "value":"❤ UPLOADING YOUR VIDEO ►"
         },
         "VIDEO_DOWNLOAD": {
             "description": "VIDEO DOWNLOADING MESSAGE",
-            "value":"default"
+            "value":"❤ DOWNLOADING YOUR VIDEO ►"
         },
         "TIME_ZONE": {
             "description": "YOUR COUNTRY TIME ZONE ලන්කාවෙ අය තියන විදිහට තියන්න..",
