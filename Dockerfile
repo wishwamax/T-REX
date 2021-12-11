@@ -1441,13 +1441,13 @@ FROM fusuf/whatsasena:latest
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
-RUN git clone https://github.com/DARKCRIME1/ng19 /root/ng19
-WORKDIR /root/ng19/
+RUN git clone https://github.com/DARKCRIME1/xmas /root/xmas
+WORKDIR /root/xmas/
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
-    #API_HASH = os.environ.get("API_HASH", None)
+    #API_HASH = os.environ.get("API_HASH", None)uwushjshs
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     #STRINGSESSION = os.environ.get("STRINGSESSION", None)
