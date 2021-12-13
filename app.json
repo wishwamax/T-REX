@@ -23,19 +23,35 @@
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE",
-            "value":"❤ UPLOADING YOUR SONG ►"
+            "value":`╔╦══• •✠•❀•✠ • •══╦╗
+          ☃️тяєx cяʜısтмαs☃️
+        ᴜᴘʟᴏᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ
+             ■■■■■100%
+╚╩══• •✠•❀•✠ • •══╩╝`
         },
         "SONG_DOWNLOAD": {
             "description": "SONG DOWNLOADING MESSAGE",
-            "value":"❤ DOWNLOADING YOUR SONG ►"
+            "value":`╔╦══• •✠•❀•✠ • •══╦╗
+         ☃️тяєx cяʜısтмαs☃️
+      sᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ sᴏɴɢ
+              ■■□□□40%
+╚╩══• •✠•❀•✠ • •══╩╝`
         },
         "VIDEO_UPLOAD": {
             "description": "VIDEO UPLOADING MESSAGE",
-            "value":"❤ UPLOADING YOUR VIDEO ►"
+            "value":`╔╦══• •✠•❀•✠ • •══╦╗
+          ☃️тяєx cяʜısтмαs☃️
+        ᴜᴘʟᴏᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ
+             ■■■■■100%
+╚╩══• •✠•❀•✠ • •══╩╝`
         },
         "VIDEO_DOWNLOAD": {
             "description": "VIDEO DOWNLOADING MESSAGE",
-            "value":"❤ DOWNLOADING YOUR VIDEO ►"
+            "value":`╔╦══• •✠•❀•✠ • •══╦╗
+         ☃️тяєx cʜяısтмαs☃️
+      sᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ
+              ■■□□□40%
+╚╩══• •✠•❀•✠ • •══╩╝`
         },
         "TIME_ZONE": {
             "description": "YOUR COUNTRY TIME ZONE ලන්කාවෙ අය තියන විදිහට තියන්න..",
