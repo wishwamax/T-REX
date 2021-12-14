@@ -1,6 +1,7 @@
 
 <div align="center">
-  <h1>📛🍁 T-REX BOT OFFICIAL 🍁📛</h1>
+  <h1>☃️🎅 MERRY CHRISTMAS ☃️❄️</h1>
+  <h2>☃️ T-REX BOT OFFICIAL ☃️</h2>
 </div>
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/0c88b73ec76e82f0933d7.jpg" width="400" height="400"/>
