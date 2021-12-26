@@ -51,7 +51,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR-SESSION)
 
-  <div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Dark-Knight-Hiruwa/T-REX.git"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
+  <div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/DARKCRIME1/xmas.git"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
 
     </div>
 <br>
